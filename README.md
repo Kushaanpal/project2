@@ -1,4 +1,4 @@
 # NEW PROJECT
 
 Project added to local system.
-Created by Kushaan pal
+Created by Kushaan pal.
